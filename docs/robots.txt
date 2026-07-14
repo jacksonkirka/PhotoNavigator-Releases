@@ -1,0 +1,7 @@
+# Public PhotoNavigator product site (installers + SEO landing)
+# https://jacksonkirka.github.io/PhotoNavigator-Releases/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jacksonkirka.github.io/PhotoNavigator-Releases/sitemap.xml
